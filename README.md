@@ -16,3 +16,6 @@ mini PCI express互換！
  SMBus DAT  
  W_DISABLE#  
  PERST#  
+
+
+![PCB](https://github.com/od1969/mini_Card_Edge_Breakout/blob/master/Mini_Card_Edge_Breakout_pinout.jpg)  
